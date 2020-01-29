@@ -1,0 +1,9 @@
+The main idea :
+We have a daily delivering process where we have to execute stored procedures and functions as well
+
+-Get items list (from a specific database)
+-Build an executable sql scripts out of it
+-Finally execute throughout the different databases
+
+How to :
+-Make a config file to store parameters; it will help us with the dynamic process
